@@ -1,4 +1,4 @@
-# IMDB-Top-250-Movies-Dataset
+# IMDB-Top-250-Movies
 
 🎬 Introduction
 
